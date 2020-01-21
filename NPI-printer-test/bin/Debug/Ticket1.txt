@@ -1,0 +1,12 @@
+10|B|C|Cinemark CINEMA
+18|B|C|SCREENNAME
+10|R|C|FILMTITLE
+10|R|C|SESSIONDATE
+10|R|C|TICKETTYPEDESC TICKETCOST
+8|R|C|CENSURA: CENSORRATING
+8|R|C|No. Ticket: TRANSACTIONNUMBER
+18|B|C|Asiento: ITEM
+8|R|C| 
+8|R|C|No se aceptan cambios de ningun tipo 30 minutos
+8|R|C|despues de la hora de la funcion indicada en el tiquete
+10|R|C|DISFRUTE LA FUNCION!!!
